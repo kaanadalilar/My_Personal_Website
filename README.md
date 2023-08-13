@@ -1,9 +1,5 @@
-<h1 align="center">Personal Portfolio Website </h1>
+<h1 align="center">Kaan Adalılar's Personal Portfolio Website </h1>
 
-### <code>You can reach my website from </code> - 
-
+### :rocket: You can reach my website from
 https://kaanadalilar.com/
 
-# Website Preview
-
-# Features
